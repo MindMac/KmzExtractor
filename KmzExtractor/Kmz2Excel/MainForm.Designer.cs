@@ -49,13 +49,13 @@
             this.convertBtn.Name = "convertBtn";
             this.convertBtn.Size = new System.Drawing.Size(75, 23);
             this.convertBtn.TabIndex = 0;
-            this.convertBtn.Text = "开始转换";
+            this.convertBtn.Text = "Start";
             this.convertBtn.UseVisualStyleBackColor = true;
             this.convertBtn.Click += new System.EventHandler(this.convertBtn_Click);
             // 
             // fileOpenDialog
             // 
-            this.fileOpenDialog.Filter = "KMZ文件|*.kmz|所有文件|*.*";
+            this.fileOpenDialog.Filter = "KMZ File|*.kmz|All File|*.*";
             this.fileOpenDialog.SupportMultiDottedExtensions = true;
             // 
             // fileOpenTextBox
@@ -71,7 +71,7 @@
             this.fileOpenBtn.Name = "fileOpenBtn";
             this.fileOpenBtn.Size = new System.Drawing.Size(105, 23);
             this.fileOpenBtn.TabIndex = 2;
-            this.fileOpenBtn.Text = "选择文件";
+            this.fileOpenBtn.Text = "Choose File";
             this.fileOpenBtn.UseVisualStyleBackColor = true;
             this.fileOpenBtn.Click += new System.EventHandler(this.fileOpenBtn_Click);
             // 
@@ -88,7 +88,7 @@
             this.fileSaveBtn.Name = "fileSaveBtn";
             this.fileSaveBtn.Size = new System.Drawing.Size(105, 23);
             this.fileSaveBtn.TabIndex = 2;
-            this.fileSaveBtn.Text = "保存文件";
+            this.fileSaveBtn.Text = "Save File";
             this.fileSaveBtn.UseVisualStyleBackColor = true;
             this.fileSaveBtn.Click += new System.EventHandler(this.fileSaveBtn_Click);
             // 
@@ -108,12 +108,13 @@
             // convertDirCheckBox
             // 
             this.convertDirCheckBox.AutoSize = true;
+            this.convertDirCheckBox.BackColor = System.Drawing.SystemColors.Control;
             this.convertDirCheckBox.Location = new System.Drawing.Point(13, 27);
             this.convertDirCheckBox.Name = "convertDirCheckBox";
-            this.convertDirCheckBox.Size = new System.Drawing.Size(132, 16);
+            this.convertDirCheckBox.Size = new System.Drawing.Size(192, 16);
             this.convertDirCheckBox.TabIndex = 4;
-            this.convertDirCheckBox.Text = "转换目录下所有文件";
-            this.convertDirCheckBox.UseVisualStyleBackColor = true;
+            this.convertDirCheckBox.Text = "Extract All From a Directory";
+            this.convertDirCheckBox.UseVisualStyleBackColor = false;
             this.convertDirCheckBox.CheckedChanged += new System.EventHandler(this.convertDirCheckBox_CheckedChanged_1);
             // 
             // mergeAllCheckBox
@@ -121,11 +122,11 @@
             this.mergeAllCheckBox.AutoSize = true;
             this.mergeAllCheckBox.Checked = true;
             this.mergeAllCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.mergeAllCheckBox.Location = new System.Drawing.Point(156, 27);
+            this.mergeAllCheckBox.Location = new System.Drawing.Point(237, 27);
             this.mergeAllCheckBox.Name = "mergeAllCheckBox";
-            this.mergeAllCheckBox.Size = new System.Drawing.Size(120, 16);
+            this.mergeAllCheckBox.Size = new System.Drawing.Size(156, 16);
             this.mergeAllCheckBox.TabIndex = 5;
-            this.mergeAllCheckBox.Text = "合并所有输出文件";
+            this.mergeAllCheckBox.Text = "Store As a Single File";
             this.mergeAllCheckBox.UseVisualStyleBackColor = true;
             this.mergeAllCheckBox.CheckedChanged += new System.EventHandler(this.mergeAllCheckBox_CheckedChanged);
             // 
