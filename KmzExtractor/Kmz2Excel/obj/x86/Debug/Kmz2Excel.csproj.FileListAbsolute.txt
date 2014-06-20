@@ -1,0 +1,8 @@
+E:\02-ProgramWorkspace\VisualStudioWorkspace\KMZConverter\Kmz2Excel\Kmz2Excel\bin\Debug\Kmz2Excel.exe
+E:\02-ProgramWorkspace\VisualStudioWorkspace\KMZConverter\Kmz2Excel\Kmz2Excel\bin\Debug\Kmz2Excel.pdb
+E:\02-ProgramWorkspace\VisualStudioWorkspace\KMZConverter\Kmz2Excel\Kmz2Excel\obj\x86\Debug\Kmz2Excel.Properties.Resources.resources
+E:\02-ProgramWorkspace\VisualStudioWorkspace\KMZConverter\Kmz2Excel\Kmz2Excel\obj\x86\Debug\Kmz2Excel.csproj.GenerateResource.Cache
+E:\02-ProgramWorkspace\VisualStudioWorkspace\KMZConverter\Kmz2Excel\Kmz2Excel\obj\x86\Debug\Kmz2Excel.exe
+E:\02-ProgramWorkspace\VisualStudioWorkspace\KMZConverter\Kmz2Excel\Kmz2Excel\obj\x86\Debug\Kmz2Excel.pdb
+E:\02-ProgramWorkspace\VisualStudioWorkspace\KMZConverter\Kmz2Excel\Kmz2Excel\obj\x86\Debug\Kmz2Excel.MainForm.resources
+E:\02-ProgramWorkspace\VisualStudioWorkspace\KMZConverter\Kmz2Excel\Kmz2Excel\obj\x86\Debug\Kmz2Excel.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+E:\02-ProgramWorkspace\VisualStudioWorkspace\KMZConverter\Kmz2Excel\Kmz2Excel\obj\x86\Release\Kmz2Excel.MainForm.resources
+E:\02-ProgramWorkspace\VisualStudioWorkspace\KMZConverter\Kmz2Excel\Kmz2Excel\obj\x86\Release\Kmz2Excel.Properties.Resources.resources
+E:\02-ProgramWorkspace\VisualStudioWorkspace\KMZConverter\Kmz2Excel\Kmz2Excel\obj\x86\Release\Kmz2Excel.csproj.GenerateResource.Cache
