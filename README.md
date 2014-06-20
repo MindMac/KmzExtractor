@@ -1,4 +1,4 @@
 KmzExtractor
 ============
 
-Extract coordinates from kmz files
+Extract coordinates from [KMZ](http://www.google.com/earth/outreach/tutorials/kmz.html) files.
